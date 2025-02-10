@@ -5,7 +5,7 @@ if b > a:
 
 
 
-  a = 33
+a = 33
 b = 33
 if b > a:
   print("b is greater than a")
@@ -15,7 +15,7 @@ elif a == b:
 
 
 
-  a = 200
+a = 200
 b = 33
 if b > a:
   print("b is greater than a")
@@ -26,7 +26,7 @@ else:
 
 
 
-  a = 200
+a = 200
 b = 33
 if b > a:
   print("b is greater than a")
@@ -35,7 +35,7 @@ else:
 
 
 
-  a = 200
+a = 200
 b = 33
 
 if a > b: print("a is greater than b")
@@ -63,7 +63,7 @@ if a > b and c > a:
 
 
 
-  a = 200
+a = 200
 b = 33
 c = 500
 if a > b or a > c:
@@ -71,7 +71,7 @@ if a > b or a > c:
 
 
 
-  a = 33
+a = 33
 b = 200
 if not a > b:
   print("a is NOT greater than b")
@@ -79,7 +79,7 @@ if not a > b:
 
 
 
-  x = 41
+x = 41
 
 if x > 10:
   print("Above ten,")

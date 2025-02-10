@@ -11,8 +11,7 @@ if b > a:
 else:
   print("b is not greater than a")
 
-
-  print(bool("Hello"))
+print(bool("Hello"))
 print(bool(15))
 
 
@@ -63,7 +62,7 @@ else:
 
 
 
-  x = 200
+x = 200
 print(isinstance(x, int))
 
 

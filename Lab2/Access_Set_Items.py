@@ -5,7 +5,7 @@ for x in thisset:
 
 
 
-  thisset = {"apple", "banana", "cherry"}
+thisset = {"apple", "banana", "cherry"}
 
 print("banana" in thisset)
 
